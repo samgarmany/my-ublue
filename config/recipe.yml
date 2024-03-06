@@ -32,7 +32,9 @@ modules:
       - gnome-tour
       - gnome-tweaks
       - htop
+      - nano
       - nvtop
+      - vim
       - yelp
 
   - type: default-flatpaks
