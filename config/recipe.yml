@@ -28,6 +28,8 @@ modules:
       - firefox-langpacks # langpacks needs to also be removed to prevent dependency problems
       - gnome-terminal
       - gnome-terminal-nautilus
+      - gnome-tour
+      - yelp
 
   - type: default-flatpaks
     notify: true # Send notification after install/uninstall is finished (true/false)
