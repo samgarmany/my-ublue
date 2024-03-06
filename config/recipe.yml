@@ -33,7 +33,6 @@ modules:
       - gnome-tweaks
       - htop
       - nvtop
-      - vim
       - yelp
 
   - type: default-flatpaks
