@@ -29,6 +29,9 @@ modules:
       - gnome-terminal
       - gnome-terminal-nautilus
       - gnome-tour
+      - gnome-tweaks
+      - htop
+      - nvtop
       - yelp
 
   - type: default-flatpaks
